@@ -7,3 +7,10 @@
 
 let date = new Date().getFullYear()
 document.getElementById("year").innerHTML = date
+
+// ***********************************************************
+
+const items = document.querySelectorAll(".client-item")
+const itemCountDisplay = document.getElementById("itemCount")
+
+itemCountDisplay.textContent = items.length
