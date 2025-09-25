@@ -55,6 +55,12 @@ img {
   width: 100%;
 }
 
+.footer{
+  background-color: skyblue;
+  font-family: 'Poppins', sans-serif;
+  padding: 20px;
+}
+
 /* Responsive breakpoints */
 @media (max-width: 1200px) {
   .grid {
