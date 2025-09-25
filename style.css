@@ -12,14 +12,14 @@ body {
 }
 
 .header{
-  background-color: skyblue;
-  font-family: 'Poppins', sans-serif;
+  background-color: skyblue;  
   padding: 20px;
 }
 
 .header h1{
   text-transform: lowercase;
   font-weight: 300;
+  font-family: 'Poppins', sans-serif;
 }
 
 .header a{
